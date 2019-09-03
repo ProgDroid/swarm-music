@@ -1,0 +1,15 @@
+/home/nando/rtmidi-master/CMakeFiles/install/strip.dir
+/home/nando/rtmidi-master/CMakeFiles/install/local.dir
+/home/nando/rtmidi-master/CMakeFiles/list_install_components.dir
+/home/nando/rtmidi-master/CMakeFiles/uninstall.dir
+/home/nando/rtmidi-master/CMakeFiles/install.dir
+/home/nando/rtmidi-master/CMakeFiles/rtmidi_static.dir
+/home/nando/rtmidi-master/CMakeFiles/rtmidi.dir
+/home/nando/rtmidi-master/CMakeFiles/rebuild_cache.dir
+/home/nando/rtmidi-master/CMakeFiles/midiout.dir
+/home/nando/rtmidi-master/CMakeFiles/edit_cache.dir
+/home/nando/rtmidi-master/CMakeFiles/sysextest.dir
+/home/nando/rtmidi-master/CMakeFiles/cmidiin.dir
+/home/nando/rtmidi-master/CMakeFiles/midiclock.dir
+/home/nando/rtmidi-master/CMakeFiles/qmidiin.dir
+/home/nando/rtmidi-master/CMakeFiles/midiprobe.dir

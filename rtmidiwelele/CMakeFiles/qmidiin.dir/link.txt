@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -rdynamic CMakeFiles/qmidiin.dir/tests/qmidiin.cpp.o  -o tests/qmidiin -Wl,-rpath,/home/nando/rtmidi-master librtmidi.so.4.0.0 -ljack -lpthread -lasound -lpthread 
