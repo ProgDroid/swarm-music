@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall  -rdynamic CMakeFiles/midiclock.dir/tests/midiclock.cpp.o  -o tests/midiclock -Wl,-rpath,/home/nando/rtmidi-master librtmidi.so.4.0.0 -ljack -lpthread -lasound -lpthread 
