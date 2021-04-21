@@ -3,6 +3,8 @@ By Fernando Ferreira, 2018-2019
 
 A short presentation on this project, some theory behind it and a showcase of the deliverable, [here](https://youtu.be/VHj-67wzHI0).
 
+This repository is now read-only, serving as an archive of the original university 3rd year project.
+
 Make and run 'bin/swarmMusic'.
 
 # Screenshots:
